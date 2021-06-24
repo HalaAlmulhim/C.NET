@@ -1,0 +1,13 @@
+C:\Users\halmu\OneDrive\Documents\C#.NET core\Fundamentals\fundamentalss\bin\Debug\netcoreapp3.1\fundamentalss.exe
+C:\Users\halmu\OneDrive\Documents\C#.NET core\Fundamentals\fundamentalss\bin\Debug\netcoreapp3.1\fundamentalss.deps.json
+C:\Users\halmu\OneDrive\Documents\C#.NET core\Fundamentals\fundamentalss\bin\Debug\netcoreapp3.1\fundamentalss.runtimeconfig.json
+C:\Users\halmu\OneDrive\Documents\C#.NET core\Fundamentals\fundamentalss\bin\Debug\netcoreapp3.1\fundamentalss.runtimeconfig.dev.json
+C:\Users\halmu\OneDrive\Documents\C#.NET core\Fundamentals\fundamentalss\bin\Debug\netcoreapp3.1\fundamentalss.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\Fundamentals\fundamentalss\bin\Debug\netcoreapp3.1\fundamentalss.pdb
+C:\Users\halmu\OneDrive\Documents\C#.NET core\Fundamentals\fundamentalss\obj\Debug\netcoreapp3.1\fundamentalss.csprojAssemblyReference.cache
+C:\Users\halmu\OneDrive\Documents\C#.NET core\Fundamentals\fundamentalss\obj\Debug\netcoreapp3.1\fundamentalss.AssemblyInfoInputs.cache
+C:\Users\halmu\OneDrive\Documents\C#.NET core\Fundamentals\fundamentalss\obj\Debug\netcoreapp3.1\fundamentalss.AssemblyInfo.cs
+C:\Users\halmu\OneDrive\Documents\C#.NET core\Fundamentals\fundamentalss\obj\Debug\netcoreapp3.1\fundamentalss.csproj.CoreCompileInputs.cache
+C:\Users\halmu\OneDrive\Documents\C#.NET core\Fundamentals\fundamentalss\obj\Debug\netcoreapp3.1\fundamentalss.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\Fundamentals\fundamentalss\obj\Debug\netcoreapp3.1\fundamentalss.pdb
+C:\Users\halmu\OneDrive\Documents\C#.NET core\Fundamentals\fundamentalss\obj\Debug\netcoreapp3.1\fundamentalss.genruntimeconfig.cache

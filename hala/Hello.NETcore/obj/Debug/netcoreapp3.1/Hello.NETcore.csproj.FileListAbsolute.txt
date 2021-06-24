@@ -1,0 +1,13 @@
+C:\Users\halmu\OneDrive\Documents\C#.NET core\hala\hello.netcore\bin\Debug\netcoreapp3.1\Hello.NETcore.exe
+C:\Users\halmu\OneDrive\Documents\C#.NET core\hala\hello.netcore\bin\Debug\netcoreapp3.1\Hello.NETcore.deps.json
+C:\Users\halmu\OneDrive\Documents\C#.NET core\hala\hello.netcore\bin\Debug\netcoreapp3.1\Hello.NETcore.runtimeconfig.json
+C:\Users\halmu\OneDrive\Documents\C#.NET core\hala\hello.netcore\bin\Debug\netcoreapp3.1\Hello.NETcore.runtimeconfig.dev.json
+C:\Users\halmu\OneDrive\Documents\C#.NET core\hala\hello.netcore\bin\Debug\netcoreapp3.1\Hello.NETcore.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\hala\hello.netcore\bin\Debug\netcoreapp3.1\Hello.NETcore.pdb
+C:\Users\halmu\OneDrive\Documents\C#.NET core\hala\hello.netcore\obj\Debug\netcoreapp3.1\Hello.NETcore.csprojAssemblyReference.cache
+C:\Users\halmu\OneDrive\Documents\C#.NET core\hala\hello.netcore\obj\Debug\netcoreapp3.1\Hello.NETcore.AssemblyInfoInputs.cache
+C:\Users\halmu\OneDrive\Documents\C#.NET core\hala\hello.netcore\obj\Debug\netcoreapp3.1\Hello.NETcore.AssemblyInfo.cs
+C:\Users\halmu\OneDrive\Documents\C#.NET core\hala\hello.netcore\obj\Debug\netcoreapp3.1\Hello.NETcore.csproj.CoreCompileInputs.cache
+C:\Users\halmu\OneDrive\Documents\C#.NET core\hala\hello.netcore\obj\Debug\netcoreapp3.1\Hello.NETcore.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\hala\hello.netcore\obj\Debug\netcoreapp3.1\Hello.NETcore.pdb
+C:\Users\halmu\OneDrive\Documents\C#.NET core\hala\hello.netcore\obj\Debug\netcoreapp3.1\Hello.NETcore.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\halmu\OneDrive\Documents\C#.NET core\CSharp\firstProject\bin\Debug\netcoreapp3.1\firstProject.exe
+C:\Users\halmu\OneDrive\Documents\C#.NET core\CSharp\firstProject\bin\Debug\netcoreapp3.1\firstProject.deps.json
+C:\Users\halmu\OneDrive\Documents\C#.NET core\CSharp\firstProject\bin\Debug\netcoreapp3.1\firstProject.runtimeconfig.json
+C:\Users\halmu\OneDrive\Documents\C#.NET core\CSharp\firstProject\bin\Debug\netcoreapp3.1\firstProject.runtimeconfig.dev.json
+C:\Users\halmu\OneDrive\Documents\C#.NET core\CSharp\firstProject\bin\Debug\netcoreapp3.1\firstProject.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\CSharp\firstProject\bin\Debug\netcoreapp3.1\firstProject.pdb
+C:\Users\halmu\OneDrive\Documents\C#.NET core\CSharp\firstProject\obj\Debug\netcoreapp3.1\firstProject.csprojAssemblyReference.cache
+C:\Users\halmu\OneDrive\Documents\C#.NET core\CSharp\firstProject\obj\Debug\netcoreapp3.1\firstProject.AssemblyInfoInputs.cache
+C:\Users\halmu\OneDrive\Documents\C#.NET core\CSharp\firstProject\obj\Debug\netcoreapp3.1\firstProject.AssemblyInfo.cs
+C:\Users\halmu\OneDrive\Documents\C#.NET core\CSharp\firstProject\obj\Debug\netcoreapp3.1\firstProject.csproj.CoreCompileInputs.cache
+C:\Users\halmu\OneDrive\Documents\C#.NET core\CSharp\firstProject\obj\Debug\netcoreapp3.1\firstProject.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\CSharp\firstProject\obj\Debug\netcoreapp3.1\firstProject.pdb
+C:\Users\halmu\OneDrive\Documents\C#.NET core\CSharp\firstProject\obj\Debug\netcoreapp3.1\firstProject.genruntimeconfig.cache
