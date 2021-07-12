@@ -1,0 +1,41 @@
+﻿
+.container{
+  padding-top: 50px;
+}
+
+label{
+  display: inline-block;
+  min-width: 150px;
+}
+
+.wrapper{
+  display: flex;
+  align-items: flex-end;
+}
+
+.form{
+  width: 40%;
+}
+
+.sign{
+  margin-top: 15px;
+}
+
+.link{
+  margin-bottom: 50px;
+  margin-left: 50px;
+}
+
+nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+ul{
+  list-style:none;
+}
+
+li{
+  margin-top: 5px;
+}

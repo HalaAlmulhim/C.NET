@@ -1,0 +1,11 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Clock myClock = new Clock();
+}
+
+
+<div class="text-center">
+    <partial name="SideBar" model="myClock"/>
+    <h1 class="display-4">Welcome @ViewBag.Username</h1>
+    <h3>You are @ViewBag.UserAge Years old!!</h3>
+</div>

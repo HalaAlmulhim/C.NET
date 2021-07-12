@@ -1,0 +1,22 @@
+@model Dish
+@{
+    ViewData["Title"] = "A Web Page";
+}
+
+<div>
+    <a asp-action="Index" asp-controller="Home">Home</a>
+    <a asp-action="Dishes" asp-controller="Home">Dishes</a>
+</div>
+<div class="text-center">
+    <h1 class="display-4">@Model.Name</h1>
+    <h3 class="display-4">@ViewBag.Chef.FirstName @ViewBag.Chef.LastName</h3>
+</div>
+<div>
+    <p>@Model.Description</p>
+    <p>Calories : @Model.Calories</p>
+    <p>Tastiness : @Model.Tastiness</p>
+</div>
+<div>
+    <button type="submit"><a asp-controller="Home" asp-action="DeleteDish" asp-route-id="@Model.DishId">Delete</a></button>
+    <button type="submit"><a asp-controller="Home" asp-action="EditDish" asp-route-id="@Model.DishId">Edit</a></button>
+</div>

@@ -1,0 +1,121 @@
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/bin/Debug/netcoreapp3.1/BankAccounts.deps.json
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/bin/Debug/netcoreapp3.1/BankAccounts.runtimeconfig.json
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/bin/Debug/netcoreapp3.1/BankAccounts.runtimeconfig.dev.json
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/bin/Debug/netcoreapp3.1/BankAccounts.dll
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/bin/Debug/netcoreapp3.1/BankAccounts.pdb
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/bin/Debug/netcoreapp3.1/BankAccounts.Views.dll
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/bin/Debug/netcoreapp3.1/BankAccounts.Views.pdb
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/bin/Debug/netcoreapp3.1/MySqlConnector.dll
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/bin/Debug/netcoreapp3.1/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/bin/Debug/netcoreapp3.1/Pomelo.JsonObject.dll
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/obj/Debug/netcoreapp3.1/BankAccounts.csprojAssemblyReference.cache
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/obj/Debug/netcoreapp3.1/BankAccounts.AssemblyInfoInputs.cache
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/obj/Debug/netcoreapp3.1/BankAccounts.AssemblyInfo.cs
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/obj/Debug/netcoreapp3.1/BankAccounts.csproj.CoreCompileInputs.cache
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/obj/Debug/netcoreapp3.1/BankAccounts.MvcApplicationPartsAssemblyInfo.cache
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/obj/Debug/netcoreapp3.1/BankAccounts.RazorAssemblyInfo.cache
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/obj/Debug/netcoreapp3.1/BankAccounts.RazorAssemblyInfo.cs
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/obj/Debug/netcoreapp3.1/BankAccounts.TagHelpers.input.cache
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/obj/Debug/netcoreapp3.1/BankAccounts.TagHelpers.output.cache
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/obj/Debug/netcoreapp3.1/BankAccounts.RazorCoreGenerate.cache
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/obj/Debug/netcoreapp3.1/BankAccounts.RazorTargetAssemblyInfo.cache
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/obj/Debug/netcoreapp3.1/BankAccounts.RazorTargetAssemblyInfo.cs
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/obj/Debug/netcoreapp3.1/BankAccounts.Views.pdb
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/obj/Debug/netcoreapp3.1/BankAccounts.csproj.CopyComplete
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/obj/Debug/netcoreapp3.1/staticwebassets/BankAccounts.StaticWebAssets.Manifest.cache
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/obj/Debug/netcoreapp3.1/staticwebassets/BankAccounts.StaticWebAssets.xml
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/obj/Debug/netcoreapp3.1/BankAccounts.dll
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/obj/Debug/netcoreapp3.1/BankAccounts.pdb
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/obj/Debug/netcoreapp3.1/BankAccounts.genruntimeconfig.cache
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/obj/Debug/netcoreapp3.1/Razor/Views/Home/Login.cshtml.g.cs
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/obj/Debug/netcoreapp3.1/Razor/Views/Home/Register.cshtml.g.cs
+/Users/zaid/Desktop/Dojo/CSharp/BankAccounts/obj/Debug/netcoreapp3.1/Razor/Views/Home/Account.cshtml.g.cs
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\bin\Debug\netcoreapp3.1\BankAccounts.exe
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\bin\Debug\netcoreapp3.1\BankAccounts.deps.json
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\bin\Debug\netcoreapp3.1\BankAccounts.runtimeconfig.json
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\bin\Debug\netcoreapp3.1\BankAccounts.runtimeconfig.dev.json
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\bin\Debug\netcoreapp3.1\BankAccounts.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\bin\Debug\netcoreapp3.1\BankAccounts.pdb
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\bin\Debug\netcoreapp3.1\BankAccounts.Views.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\bin\Debug\netcoreapp3.1\BankAccounts.Views.pdb
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\obj\Debug\netcoreapp3.1\BankAccounts.csprojAssemblyReference.cache
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\obj\Debug\netcoreapp3.1\BankAccounts.AssemblyInfoInputs.cache
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\obj\Debug\netcoreapp3.1\BankAccounts.AssemblyInfo.cs
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\obj\Debug\netcoreapp3.1\BankAccounts.csproj.CoreCompileInputs.cache
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\obj\Debug\netcoreapp3.1\BankAccounts.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\obj\Debug\netcoreapp3.1\BankAccounts.RazorAssemblyInfo.cache
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\obj\Debug\netcoreapp3.1\BankAccounts.RazorAssemblyInfo.cs
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\obj\Debug\netcoreapp3.1\BankAccounts.TagHelpers.input.cache
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\obj\Debug\netcoreapp3.1\BankAccounts.TagHelpers.output.cache
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\obj\Debug\netcoreapp3.1\BankAccounts.RazorCoreGenerate.cache
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\obj\Debug\netcoreapp3.1\Razor\Views\Home\Account.cshtml.g.cs
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\obj\Debug\netcoreapp3.1\BankAccounts.RazorTargetAssemblyInfo.cache
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\obj\Debug\netcoreapp3.1\BankAccounts.RazorTargetAssemblyInfo.cs
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\obj\Debug\netcoreapp3.1\BankAccounts.Views.pdb
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\obj\Debug\netcoreapp3.1\BankAccounts.csproj.CopyComplete
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\obj\Debug\netcoreapp3.1\staticwebassets\BankAccounts.StaticWebAssets.Manifest.cache
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\obj\Debug\netcoreapp3.1\staticwebassets\BankAccounts.StaticWebAssets.xml
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\obj\Debug\netcoreapp3.1\BankAccounts.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\obj\Debug\netcoreapp3.1\BankAccounts.pdb
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\BankAccounts\obj\Debug\netcoreapp3.1\BankAccounts.genruntimeconfig.cache

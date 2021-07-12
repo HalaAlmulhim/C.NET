@@ -1,0 +1,101 @@
+body{
+    color: green;
+}
+
+.info-left{
+    width: 600px;
+    float: left;
+    text-align: center;
+}
+
+.info-right{
+    width: 600px;
+    float: right;
+    text-align: center;
+}
+.info-left img{
+    width: 500px;
+    height: 250px;
+}
+
+.center{
+    text-align: center;
+    margin: 20px 0;
+}
+
+.container{
+    width: 750px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    margin: 0 auto;
+    overflow-y: scroll;
+    margin-top: 40px;
+}
+
+.display{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+}
+
+input{
+    height: 40px;
+    width: 233px;
+    margin-bottom: 28px;
+    margin-right: 31px;
+}
+
+button{
+    margin-left: 900px;
+    margin-top: 38px;
+}
+
+header{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+.center{
+    text-align: center;
+}
+
+.imgSmall{
+    width: 200px;
+    height: 200px;
+}
+
+.inline{
+    display: flex;
+    margin: 7px;
+}
+
+
+
+.bottom{
+    border-bottom: 1px green solid;
+}
+header ul li {
+    list-style: none;
+    display: inline-flex;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+header ul li a{
+    text-decoration: none;
+    color: green;
+    transition: 1s;
+    font-weight: 600;
+}
+
+header ul li a:hover{
+    color: rgb(223, 33, 223);
+}

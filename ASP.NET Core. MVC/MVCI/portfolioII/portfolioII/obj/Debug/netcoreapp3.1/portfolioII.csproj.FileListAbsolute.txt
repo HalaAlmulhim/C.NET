@@ -1,0 +1,99 @@
+C:\Users\Asus\Documents\C#\portfolioII\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Asus\Documents\C#\portfolioII\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Asus\Documents\C#\portfolioII\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Asus\Documents\C#\portfolioII\bin\Debug\netcoreapp3.1\portfolioII.exe
+C:\Users\Asus\Documents\C#\portfolioII\bin\Debug\netcoreapp3.1\portfolioII.deps.json
+C:\Users\Asus\Documents\C#\portfolioII\bin\Debug\netcoreapp3.1\portfolioII.runtimeconfig.json
+C:\Users\Asus\Documents\C#\portfolioII\bin\Debug\netcoreapp3.1\portfolioII.runtimeconfig.dev.json
+C:\Users\Asus\Documents\C#\portfolioII\bin\Debug\netcoreapp3.1\portfolioII.dll
+C:\Users\Asus\Documents\C#\portfolioII\bin\Debug\netcoreapp3.1\portfolioII.pdb
+C:\Users\Asus\Documents\C#\portfolioII\bin\Debug\netcoreapp3.1\portfolioII.Views.dll
+C:\Users\Asus\Documents\C#\portfolioII\bin\Debug\netcoreapp3.1\portfolioII.Views.pdb
+C:\Users\Asus\Documents\C#\portfolioII\obj\Debug\netcoreapp3.1\portfolioII.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\C#\portfolioII\obj\Debug\netcoreapp3.1\portfolioII.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\C#\portfolioII\obj\Debug\netcoreapp3.1\portfolioII.AssemblyInfo.cs
+C:\Users\Asus\Documents\C#\portfolioII\obj\Debug\netcoreapp3.1\portfolioII.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\C#\portfolioII\obj\Debug\netcoreapp3.1\portfolioII.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Documents\C#\portfolioII\obj\Debug\netcoreapp3.1\portfolioII.RazorAssemblyInfo.cache
+C:\Users\Asus\Documents\C#\portfolioII\obj\Debug\netcoreapp3.1\portfolioII.RazorAssemblyInfo.cs
+C:\Users\Asus\Documents\C#\portfolioII\obj\Debug\netcoreapp3.1\portfolioII.TagHelpers.input.cache
+C:\Users\Asus\Documents\C#\portfolioII\obj\Debug\netcoreapp3.1\portfolioII.TagHelpers.output.cache
+C:\Users\Asus\Documents\C#\portfolioII\obj\Debug\netcoreapp3.1\portfolioII.RazorCoreGenerate.cache
+C:\Users\Asus\Documents\C#\portfolioII\obj\Debug\netcoreapp3.1\Razor\Views\Index\Contact.cshtml.g.cs
+C:\Users\Asus\Documents\C#\portfolioII\obj\Debug\netcoreapp3.1\Razor\Views\Index\Index.cshtml.g.cs
+C:\Users\Asus\Documents\C#\portfolioII\obj\Debug\netcoreapp3.1\Razor\Views\Index\Projects.cshtml.g.cs
+C:\Users\Asus\Documents\C#\portfolioII\obj\Debug\netcoreapp3.1\portfolioII.RazorTargetAssemblyInfo.cache
+C:\Users\Asus\Documents\C#\portfolioII\obj\Debug\netcoreapp3.1\portfolioII.RazorTargetAssemblyInfo.cs
+C:\Users\Asus\Documents\C#\portfolioII\obj\Debug\netcoreapp3.1\portfolioII.Views.pdb
+C:\Users\Asus\Documents\C#\portfolioII\obj\Debug\netcoreapp3.1\staticwebassets\portfolioII.StaticWebAssets.Manifest.cache
+C:\Users\Asus\Documents\C#\portfolioII\obj\Debug\netcoreapp3.1\staticwebassets\portfolioII.StaticWebAssets.xml
+C:\Users\Asus\Documents\C#\portfolioII\obj\Debug\netcoreapp3.1\portfolioII.dll
+C:\Users\Asus\Documents\C#\portfolioII\obj\Debug\netcoreapp3.1\portfolioII.pdb
+C:\Users\Asus\Documents\C#\portfolioII\obj\Debug\netcoreapp3.1\portfolioII.genruntimeconfig.cache
+C:\Users\Asus\Documents\C#\portfolioII\obj\Debug\netcoreapp3.1\portfolioII.csproj.CopyComplete
+C:\Users\halmu\Downloads\portfolioII\portfolioII\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\halmu\Downloads\portfolioII\portfolioII\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\halmu\Downloads\portfolioII\portfolioII\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\halmu\Downloads\portfolioII\portfolioII\bin\Debug\netcoreapp3.1\portfolioII.exe
+C:\Users\halmu\Downloads\portfolioII\portfolioII\bin\Debug\netcoreapp3.1\portfolioII.deps.json
+C:\Users\halmu\Downloads\portfolioII\portfolioII\bin\Debug\netcoreapp3.1\portfolioII.runtimeconfig.json
+C:\Users\halmu\Downloads\portfolioII\portfolioII\bin\Debug\netcoreapp3.1\portfolioII.runtimeconfig.dev.json
+C:\Users\halmu\Downloads\portfolioII\portfolioII\bin\Debug\netcoreapp3.1\portfolioII.dll
+C:\Users\halmu\Downloads\portfolioII\portfolioII\bin\Debug\netcoreapp3.1\portfolioII.pdb
+C:\Users\halmu\Downloads\portfolioII\portfolioII\bin\Debug\netcoreapp3.1\portfolioII.Views.dll
+C:\Users\halmu\Downloads\portfolioII\portfolioII\bin\Debug\netcoreapp3.1\portfolioII.Views.pdb
+C:\Users\halmu\Downloads\portfolioII\portfolioII\obj\Debug\netcoreapp3.1\portfolioII.csprojAssemblyReference.cache
+C:\Users\halmu\Downloads\portfolioII\portfolioII\obj\Debug\netcoreapp3.1\portfolioII.AssemblyInfoInputs.cache
+C:\Users\halmu\Downloads\portfolioII\portfolioII\obj\Debug\netcoreapp3.1\portfolioII.AssemblyInfo.cs
+C:\Users\halmu\Downloads\portfolioII\portfolioII\obj\Debug\netcoreapp3.1\portfolioII.csproj.CoreCompileInputs.cache
+C:\Users\halmu\Downloads\portfolioII\portfolioII\obj\Debug\netcoreapp3.1\portfolioII.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\halmu\Downloads\portfolioII\portfolioII\obj\Debug\netcoreapp3.1\portfolioII.RazorAssemblyInfo.cache
+C:\Users\halmu\Downloads\portfolioII\portfolioII\obj\Debug\netcoreapp3.1\portfolioII.RazorAssemblyInfo.cs
+C:\Users\halmu\Downloads\portfolioII\portfolioII\obj\Debug\netcoreapp3.1\portfolioII.TagHelpers.input.cache
+C:\Users\halmu\Downloads\portfolioII\portfolioII\obj\Debug\netcoreapp3.1\portfolioII.TagHelpers.output.cache
+C:\Users\halmu\Downloads\portfolioII\portfolioII\obj\Debug\netcoreapp3.1\portfolioII.RazorCoreGenerate.cache
+C:\Users\halmu\Downloads\portfolioII\portfolioII\obj\Debug\netcoreapp3.1\Razor\Views\Index\Contact.cshtml.g.cs
+C:\Users\halmu\Downloads\portfolioII\portfolioII\obj\Debug\netcoreapp3.1\Razor\Views\Index\Index.cshtml.g.cs
+C:\Users\halmu\Downloads\portfolioII\portfolioII\obj\Debug\netcoreapp3.1\Razor\Views\Index\Projects.cshtml.g.cs
+C:\Users\halmu\Downloads\portfolioII\portfolioII\obj\Debug\netcoreapp3.1\portfolioII.RazorTargetAssemblyInfo.cache
+C:\Users\halmu\Downloads\portfolioII\portfolioII\obj\Debug\netcoreapp3.1\portfolioII.RazorTargetAssemblyInfo.cs
+C:\Users\halmu\Downloads\portfolioII\portfolioII\obj\Debug\netcoreapp3.1\portfolioII.Views.pdb
+C:\Users\halmu\Downloads\portfolioII\portfolioII\obj\Debug\netcoreapp3.1\staticwebassets\portfolioII.StaticWebAssets.Manifest.cache
+C:\Users\halmu\Downloads\portfolioII\portfolioII\obj\Debug\netcoreapp3.1\staticwebassets\portfolioII.StaticWebAssets.xml
+C:\Users\halmu\Downloads\portfolioII\portfolioII\obj\Debug\netcoreapp3.1\portfolioII.dll
+C:\Users\halmu\Downloads\portfolioII\portfolioII\obj\Debug\netcoreapp3.1\portfolioII.pdb
+C:\Users\halmu\Downloads\portfolioII\portfolioII\obj\Debug\netcoreapp3.1\portfolioII.genruntimeconfig.cache
+C:\Users\halmu\Downloads\portfolioII\portfolioII\obj\Debug\netcoreapp3.1\portfolioII.csproj.CopyComplete
+C:\Users\halmu\OneDrive\Documents\C#.NET core\portfolioII\portfolioII\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\halmu\OneDrive\Documents\C#.NET core\portfolioII\portfolioII\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\halmu\OneDrive\Documents\C#.NET core\portfolioII\portfolioII\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\halmu\OneDrive\Documents\C#.NET core\portfolioII\portfolioII\bin\Debug\netcoreapp3.1\portfolioII.exe
+C:\Users\halmu\OneDrive\Documents\C#.NET core\portfolioII\portfolioII\bin\Debug\netcoreapp3.1\portfolioII.deps.json
+C:\Users\halmu\OneDrive\Documents\C#.NET core\portfolioII\portfolioII\bin\Debug\netcoreapp3.1\portfolioII.runtimeconfig.json
+C:\Users\halmu\OneDrive\Documents\C#.NET core\portfolioII\portfolioII\bin\Debug\netcoreapp3.1\portfolioII.runtimeconfig.dev.json
+C:\Users\halmu\OneDrive\Documents\C#.NET core\portfolioII\portfolioII\bin\Debug\netcoreapp3.1\portfolioII.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\portfolioII\portfolioII\bin\Debug\netcoreapp3.1\portfolioII.pdb
+C:\Users\halmu\OneDrive\Documents\C#.NET core\portfolioII\portfolioII\bin\Debug\netcoreapp3.1\portfolioII.Views.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\portfolioII\portfolioII\bin\Debug\netcoreapp3.1\portfolioII.Views.pdb
+C:\Users\halmu\OneDrive\Documents\C#.NET core\portfolioII\portfolioII\obj\Debug\netcoreapp3.1\portfolioII.csprojAssemblyReference.cache
+C:\Users\halmu\OneDrive\Documents\C#.NET core\portfolioII\portfolioII\obj\Debug\netcoreapp3.1\portfolioII.AssemblyInfoInputs.cache
+C:\Users\halmu\OneDrive\Documents\C#.NET core\portfolioII\portfolioII\obj\Debug\netcoreapp3.1\portfolioII.AssemblyInfo.cs
+C:\Users\halmu\OneDrive\Documents\C#.NET core\portfolioII\portfolioII\obj\Debug\netcoreapp3.1\portfolioII.csproj.CoreCompileInputs.cache
+C:\Users\halmu\OneDrive\Documents\C#.NET core\portfolioII\portfolioII\obj\Debug\netcoreapp3.1\portfolioII.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\halmu\OneDrive\Documents\C#.NET core\portfolioII\portfolioII\obj\Debug\netcoreapp3.1\portfolioII.RazorAssemblyInfo.cache
+C:\Users\halmu\OneDrive\Documents\C#.NET core\portfolioII\portfolioII\obj\Debug\netcoreapp3.1\portfolioII.RazorAssemblyInfo.cs
+C:\Users\halmu\OneDrive\Documents\C#.NET core\portfolioII\portfolioII\obj\Debug\netcoreapp3.1\portfolioII.TagHelpers.input.cache
+C:\Users\halmu\OneDrive\Documents\C#.NET core\portfolioII\portfolioII\obj\Debug\netcoreapp3.1\portfolioII.TagHelpers.output.cache
+C:\Users\halmu\OneDrive\Documents\C#.NET core\portfolioII\portfolioII\obj\Debug\netcoreapp3.1\portfolioII.RazorCoreGenerate.cache
+C:\Users\halmu\OneDrive\Documents\C#.NET core\portfolioII\portfolioII\obj\Debug\netcoreapp3.1\Razor\Views\Index\Contact.cshtml.g.cs
+C:\Users\halmu\OneDrive\Documents\C#.NET core\portfolioII\portfolioII\obj\Debug\netcoreapp3.1\Razor\Views\Index\Index.cshtml.g.cs
+C:\Users\halmu\OneDrive\Documents\C#.NET core\portfolioII\portfolioII\obj\Debug\netcoreapp3.1\Razor\Views\Index\Projects.cshtml.g.cs
+C:\Users\halmu\OneDrive\Documents\C#.NET core\portfolioII\portfolioII\obj\Debug\netcoreapp3.1\portfolioII.RazorTargetAssemblyInfo.cache
+C:\Users\halmu\OneDrive\Documents\C#.NET core\portfolioII\portfolioII\obj\Debug\netcoreapp3.1\portfolioII.RazorTargetAssemblyInfo.cs
+C:\Users\halmu\OneDrive\Documents\C#.NET core\portfolioII\portfolioII\obj\Debug\netcoreapp3.1\portfolioII.Views.pdb
+C:\Users\halmu\OneDrive\Documents\C#.NET core\portfolioII\portfolioII\obj\Debug\netcoreapp3.1\staticwebassets\portfolioII.StaticWebAssets.Manifest.cache
+C:\Users\halmu\OneDrive\Documents\C#.NET core\portfolioII\portfolioII\obj\Debug\netcoreapp3.1\staticwebassets\portfolioII.StaticWebAssets.xml
+C:\Users\halmu\OneDrive\Documents\C#.NET core\portfolioII\portfolioII\obj\Debug\netcoreapp3.1\portfolioII.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\portfolioII\portfolioII\obj\Debug\netcoreapp3.1\portfolioII.pdb
+C:\Users\halmu\OneDrive\Documents\C#.NET core\portfolioII\portfolioII\obj\Debug\netcoreapp3.1\portfolioII.genruntimeconfig.cache
+C:\Users\halmu\OneDrive\Documents\C#.NET core\portfolioII\portfolioII\obj\Debug\netcoreapp3.1\portfolioII.csproj.CopyComplete

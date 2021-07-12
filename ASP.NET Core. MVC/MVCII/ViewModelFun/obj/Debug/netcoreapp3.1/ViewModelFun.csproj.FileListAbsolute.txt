@@ -1,0 +1,68 @@
+C:\Users\halmu\Downloads\Csharp_ASP.NET_Core-main\Csharp_ASP.NET_Core-main\ASPNetCore\ASP-MVC-II\ViewModelFun\bin\Debug\netcoreapp3.1\ViewModelFun.exe
+C:\Users\halmu\Downloads\Csharp_ASP.NET_Core-main\Csharp_ASP.NET_Core-main\ASPNetCore\ASP-MVC-II\ViewModelFun\bin\Debug\netcoreapp3.1\ViewModelFun.deps.json
+C:\Users\halmu\Downloads\Csharp_ASP.NET_Core-main\Csharp_ASP.NET_Core-main\ASPNetCore\ASP-MVC-II\ViewModelFun\bin\Debug\netcoreapp3.1\ViewModelFun.runtimeconfig.json
+C:\Users\halmu\Downloads\Csharp_ASP.NET_Core-main\Csharp_ASP.NET_Core-main\ASPNetCore\ASP-MVC-II\ViewModelFun\bin\Debug\netcoreapp3.1\ViewModelFun.runtimeconfig.dev.json
+C:\Users\halmu\Downloads\Csharp_ASP.NET_Core-main\Csharp_ASP.NET_Core-main\ASPNetCore\ASP-MVC-II\ViewModelFun\bin\Debug\netcoreapp3.1\ViewModelFun.dll
+C:\Users\halmu\Downloads\Csharp_ASP.NET_Core-main\Csharp_ASP.NET_Core-main\ASPNetCore\ASP-MVC-II\ViewModelFun\bin\Debug\netcoreapp3.1\ViewModelFun.pdb
+C:\Users\halmu\Downloads\Csharp_ASP.NET_Core-main\Csharp_ASP.NET_Core-main\ASPNetCore\ASP-MVC-II\ViewModelFun\bin\Debug\netcoreapp3.1\ViewModelFun.Views.dll
+C:\Users\halmu\Downloads\Csharp_ASP.NET_Core-main\Csharp_ASP.NET_Core-main\ASPNetCore\ASP-MVC-II\ViewModelFun\bin\Debug\netcoreapp3.1\ViewModelFun.Views.pdb
+C:\Users\halmu\Downloads\Csharp_ASP.NET_Core-main\Csharp_ASP.NET_Core-main\ASPNetCore\ASP-MVC-II\ViewModelFun\obj\Debug\netcoreapp3.1\ViewModelFun.csprojAssemblyReference.cache
+C:\Users\halmu\Downloads\Csharp_ASP.NET_Core-main\Csharp_ASP.NET_Core-main\ASPNetCore\ASP-MVC-II\ViewModelFun\obj\Debug\netcoreapp3.1\ViewModelFun.AssemblyInfoInputs.cache
+C:\Users\halmu\Downloads\Csharp_ASP.NET_Core-main\Csharp_ASP.NET_Core-main\ASPNetCore\ASP-MVC-II\ViewModelFun\obj\Debug\netcoreapp3.1\ViewModelFun.AssemblyInfo.cs
+C:\Users\halmu\Downloads\Csharp_ASP.NET_Core-main\Csharp_ASP.NET_Core-main\ASPNetCore\ASP-MVC-II\ViewModelFun\obj\Debug\netcoreapp3.1\ViewModelFun.csproj.CoreCompileInputs.cache
+C:\Users\halmu\Downloads\Csharp_ASP.NET_Core-main\Csharp_ASP.NET_Core-main\ASPNetCore\ASP-MVC-II\ViewModelFun\obj\Debug\netcoreapp3.1\ViewModelFun.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\halmu\Downloads\Csharp_ASP.NET_Core-main\Csharp_ASP.NET_Core-main\ASPNetCore\ASP-MVC-II\ViewModelFun\obj\Debug\netcoreapp3.1\ViewModelFun.RazorAssemblyInfo.cache
+C:\Users\halmu\Downloads\Csharp_ASP.NET_Core-main\Csharp_ASP.NET_Core-main\ASPNetCore\ASP-MVC-II\ViewModelFun\obj\Debug\netcoreapp3.1\ViewModelFun.RazorAssemblyInfo.cs
+C:\Users\halmu\Downloads\Csharp_ASP.NET_Core-main\Csharp_ASP.NET_Core-main\ASPNetCore\ASP-MVC-II\ViewModelFun\obj\Debug\netcoreapp3.1\ViewModelFun.TagHelpers.input.cache
+C:\Users\halmu\Downloads\Csharp_ASP.NET_Core-main\Csharp_ASP.NET_Core-main\ASPNetCore\ASP-MVC-II\ViewModelFun\obj\Debug\netcoreapp3.1\ViewModelFun.TagHelpers.output.cache
+C:\Users\halmu\Downloads\Csharp_ASP.NET_Core-main\Csharp_ASP.NET_Core-main\ASPNetCore\ASP-MVC-II\ViewModelFun\obj\Debug\netcoreapp3.1\ViewModelFun.RazorCoreGenerate.cache
+C:\Users\halmu\Downloads\Csharp_ASP.NET_Core-main\Csharp_ASP.NET_Core-main\ASPNetCore\ASP-MVC-II\ViewModelFun\obj\Debug\netcoreapp3.1\Razor\Views\Fun\Message.cshtml.g.cs
+C:\Users\halmu\Downloads\Csharp_ASP.NET_Core-main\Csharp_ASP.NET_Core-main\ASPNetCore\ASP-MVC-II\ViewModelFun\obj\Debug\netcoreapp3.1\Razor\Views\Fun\Numbers.cshtml.g.cs
+C:\Users\halmu\Downloads\Csharp_ASP.NET_Core-main\Csharp_ASP.NET_Core-main\ASPNetCore\ASP-MVC-II\ViewModelFun\obj\Debug\netcoreapp3.1\Razor\Views\Fun\OneUser.cshtml.g.cs
+C:\Users\halmu\Downloads\Csharp_ASP.NET_Core-main\Csharp_ASP.NET_Core-main\ASPNetCore\ASP-MVC-II\ViewModelFun\obj\Debug\netcoreapp3.1\Razor\Views\Fun\Users.cshtml.g.cs
+C:\Users\halmu\Downloads\Csharp_ASP.NET_Core-main\Csharp_ASP.NET_Core-main\ASPNetCore\ASP-MVC-II\ViewModelFun\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\halmu\Downloads\Csharp_ASP.NET_Core-main\Csharp_ASP.NET_Core-main\ASPNetCore\ASP-MVC-II\ViewModelFun\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\halmu\Downloads\Csharp_ASP.NET_Core-main\Csharp_ASP.NET_Core-main\ASPNetCore\ASP-MVC-II\ViewModelFun\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\halmu\Downloads\Csharp_ASP.NET_Core-main\Csharp_ASP.NET_Core-main\ASPNetCore\ASP-MVC-II\ViewModelFun\obj\Debug\netcoreapp3.1\ViewModelFun.RazorTargetAssemblyInfo.cache
+C:\Users\halmu\Downloads\Csharp_ASP.NET_Core-main\Csharp_ASP.NET_Core-main\ASPNetCore\ASP-MVC-II\ViewModelFun\obj\Debug\netcoreapp3.1\ViewModelFun.RazorTargetAssemblyInfo.cs
+C:\Users\halmu\Downloads\Csharp_ASP.NET_Core-main\Csharp_ASP.NET_Core-main\ASPNetCore\ASP-MVC-II\ViewModelFun\obj\Debug\netcoreapp3.1\ViewModelFun.Views.pdb
+C:\Users\halmu\Downloads\Csharp_ASP.NET_Core-main\Csharp_ASP.NET_Core-main\ASPNetCore\ASP-MVC-II\ViewModelFun\obj\Debug\netcoreapp3.1\staticwebassets\ViewModelFun.StaticWebAssets.Manifest.cache
+C:\Users\halmu\Downloads\Csharp_ASP.NET_Core-main\Csharp_ASP.NET_Core-main\ASPNetCore\ASP-MVC-II\ViewModelFun\obj\Debug\netcoreapp3.1\staticwebassets\ViewModelFun.StaticWebAssets.xml
+C:\Users\halmu\Downloads\Csharp_ASP.NET_Core-main\Csharp_ASP.NET_Core-main\ASPNetCore\ASP-MVC-II\ViewModelFun\obj\Debug\netcoreapp3.1\ViewModelFun.dll
+C:\Users\halmu\Downloads\Csharp_ASP.NET_Core-main\Csharp_ASP.NET_Core-main\ASPNetCore\ASP-MVC-II\ViewModelFun\obj\Debug\netcoreapp3.1\ViewModelFun.pdb
+C:\Users\halmu\Downloads\Csharp_ASP.NET_Core-main\Csharp_ASP.NET_Core-main\ASPNetCore\ASP-MVC-II\ViewModelFun\obj\Debug\netcoreapp3.1\ViewModelFun.genruntimeconfig.cache
+C:\Users\halmu\Downloads\Csharp_ASP.NET_Core-main\Csharp_ASP.NET_Core-main\ASPNetCore\ASP-MVC-II\ViewModelFun\obj\Debug\netcoreapp3.1\ViewModelFun.csproj.CopyComplete
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ASP.NET Core. MVC\ViewModelFun\bin\Debug\netcoreapp3.1\ViewModelFun.exe
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ASP.NET Core. MVC\ViewModelFun\bin\Debug\netcoreapp3.1\ViewModelFun.deps.json
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ASP.NET Core. MVC\ViewModelFun\bin\Debug\netcoreapp3.1\ViewModelFun.runtimeconfig.json
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ASP.NET Core. MVC\ViewModelFun\bin\Debug\netcoreapp3.1\ViewModelFun.runtimeconfig.dev.json
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ASP.NET Core. MVC\ViewModelFun\bin\Debug\netcoreapp3.1\ViewModelFun.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ASP.NET Core. MVC\ViewModelFun\bin\Debug\netcoreapp3.1\ViewModelFun.pdb
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ASP.NET Core. MVC\ViewModelFun\bin\Debug\netcoreapp3.1\ViewModelFun.Views.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ASP.NET Core. MVC\ViewModelFun\bin\Debug\netcoreapp3.1\ViewModelFun.Views.pdb
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ASP.NET Core. MVC\ViewModelFun\obj\Debug\netcoreapp3.1\ViewModelFun.csprojAssemblyReference.cache
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ASP.NET Core. MVC\ViewModelFun\obj\Debug\netcoreapp3.1\ViewModelFun.AssemblyInfoInputs.cache
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ASP.NET Core. MVC\ViewModelFun\obj\Debug\netcoreapp3.1\ViewModelFun.AssemblyInfo.cs
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ASP.NET Core. MVC\ViewModelFun\obj\Debug\netcoreapp3.1\ViewModelFun.csproj.CoreCompileInputs.cache
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ASP.NET Core. MVC\ViewModelFun\obj\Debug\netcoreapp3.1\ViewModelFun.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ASP.NET Core. MVC\ViewModelFun\obj\Debug\netcoreapp3.1\ViewModelFun.RazorAssemblyInfo.cache
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ASP.NET Core. MVC\ViewModelFun\obj\Debug\netcoreapp3.1\ViewModelFun.RazorAssemblyInfo.cs
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ASP.NET Core. MVC\ViewModelFun\obj\Debug\netcoreapp3.1\ViewModelFun.TagHelpers.input.cache
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ASP.NET Core. MVC\ViewModelFun\obj\Debug\netcoreapp3.1\ViewModelFun.TagHelpers.output.cache
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ASP.NET Core. MVC\ViewModelFun\obj\Debug\netcoreapp3.1\ViewModelFun.RazorCoreGenerate.cache
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ASP.NET Core. MVC\ViewModelFun\obj\Debug\netcoreapp3.1\Razor\Views\Fun\Message.cshtml.g.cs
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ASP.NET Core. MVC\ViewModelFun\obj\Debug\netcoreapp3.1\Razor\Views\Fun\Numbers.cshtml.g.cs
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ASP.NET Core. MVC\ViewModelFun\obj\Debug\netcoreapp3.1\Razor\Views\Fun\OneUser.cshtml.g.cs
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ASP.NET Core. MVC\ViewModelFun\obj\Debug\netcoreapp3.1\Razor\Views\Fun\Users.cshtml.g.cs
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ASP.NET Core. MVC\ViewModelFun\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ASP.NET Core. MVC\ViewModelFun\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ASP.NET Core. MVC\ViewModelFun\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ASP.NET Core. MVC\ViewModelFun\obj\Debug\netcoreapp3.1\ViewModelFun.RazorTargetAssemblyInfo.cache
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ASP.NET Core. MVC\ViewModelFun\obj\Debug\netcoreapp3.1\ViewModelFun.RazorTargetAssemblyInfo.cs
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ASP.NET Core. MVC\ViewModelFun\obj\Debug\netcoreapp3.1\ViewModelFun.Views.pdb
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ASP.NET Core. MVC\ViewModelFun\obj\Debug\netcoreapp3.1\staticwebassets\ViewModelFun.StaticWebAssets.Manifest.cache
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ASP.NET Core. MVC\ViewModelFun\obj\Debug\netcoreapp3.1\staticwebassets\ViewModelFun.StaticWebAssets.xml
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ASP.NET Core. MVC\ViewModelFun\obj\Debug\netcoreapp3.1\ViewModelFun.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ASP.NET Core. MVC\ViewModelFun\obj\Debug\netcoreapp3.1\ViewModelFun.pdb
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ASP.NET Core. MVC\ViewModelFun\obj\Debug\netcoreapp3.1\ViewModelFun.genruntimeconfig.cache
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ASP.NET Core. MVC\ViewModelFun\obj\Debug\netcoreapp3.1\ViewModelFun.csproj.CopyComplete

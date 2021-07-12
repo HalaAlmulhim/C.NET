@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    @* Product Jeans = ViewBag.JustJeans; *@ 
+}
+
+<div>
+    <h1>Hello, World!</h1>
+    @* @{
+        foreach(Product prod in ViewBag.Products){
+            <p>@prod.Name: $@prod.Price</p>
+        }
+    }
+    <h3>On Special Today:</h3>
+    <p>@Jeans.Name: $@ViewBag.JustJeans.Price</p> *@ 
+
+    @{
+        foreach(string combo in ViewBag.Allit){
+            <p>@combo</p>
+        }
+    }
+</div>

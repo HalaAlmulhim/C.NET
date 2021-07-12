@@ -1,0 +1,125 @@
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/bin/Debug/netcoreapp3.1/WeddingPlanner.deps.json
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/bin/Debug/netcoreapp3.1/WeddingPlanner.runtimeconfig.json
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/bin/Debug/netcoreapp3.1/WeddingPlanner.runtimeconfig.dev.json
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/bin/Debug/netcoreapp3.1/WeddingPlanner.dll
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/bin/Debug/netcoreapp3.1/WeddingPlanner.pdb
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/bin/Debug/netcoreapp3.1/WeddingPlanner.Views.dll
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/bin/Debug/netcoreapp3.1/WeddingPlanner.Views.pdb
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/bin/Debug/netcoreapp3.1/MySqlConnector.dll
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/bin/Debug/netcoreapp3.1/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/bin/Debug/netcoreapp3.1/Pomelo.JsonObject.dll
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/obj/Debug/netcoreapp3.1/WeddingPlanner.csprojAssemblyReference.cache
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/obj/Debug/netcoreapp3.1/WeddingPlanner.AssemblyInfoInputs.cache
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/obj/Debug/netcoreapp3.1/WeddingPlanner.AssemblyInfo.cs
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/obj/Debug/netcoreapp3.1/WeddingPlanner.csproj.CoreCompileInputs.cache
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/obj/Debug/netcoreapp3.1/WeddingPlanner.MvcApplicationPartsAssemblyInfo.cache
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/obj/Debug/netcoreapp3.1/WeddingPlanner.RazorAssemblyInfo.cache
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/obj/Debug/netcoreapp3.1/WeddingPlanner.RazorAssemblyInfo.cs
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/obj/Debug/netcoreapp3.1/WeddingPlanner.TagHelpers.input.cache
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/obj/Debug/netcoreapp3.1/WeddingPlanner.TagHelpers.output.cache
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/obj/Debug/netcoreapp3.1/WeddingPlanner.RazorCoreGenerate.cache
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/obj/Debug/netcoreapp3.1/Razor/Views/Home/Login.cshtml.g.cs
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/obj/Debug/netcoreapp3.1/Razor/Views/Home/Register.cshtml.g.cs
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/obj/Debug/netcoreapp3.1/WeddingPlanner.RazorTargetAssemblyInfo.cache
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/obj/Debug/netcoreapp3.1/WeddingPlanner.RazorTargetAssemblyInfo.cs
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/obj/Debug/netcoreapp3.1/WeddingPlanner.Views.pdb
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/obj/Debug/netcoreapp3.1/WeddingPlanner.csproj.CopyComplete
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/obj/Debug/netcoreapp3.1/staticwebassets/WeddingPlanner.StaticWebAssets.Manifest.cache
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/obj/Debug/netcoreapp3.1/staticwebassets/WeddingPlanner.StaticWebAssets.xml
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/obj/Debug/netcoreapp3.1/WeddingPlanner.dll
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/obj/Debug/netcoreapp3.1/WeddingPlanner.pdb
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/obj/Debug/netcoreapp3.1/WeddingPlanner.genruntimeconfig.cache
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/obj/Debug/netcoreapp3.1/Razor/Views/Wedding/Dashboard.cshtml.g.cs
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/obj/Debug/netcoreapp3.1/Razor/Views/Wedding/NewWedding.cshtml.g.cs
+/Users/zaid/Desktop/Dojo/CSharp/WeddingPlanner/obj/Debug/netcoreapp3.1/Razor/Views/Wedding/WeddingDetailes.cshtml.g.cs
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\bin\Debug\netcoreapp3.1\WeddingPlanner.exe
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\bin\Debug\netcoreapp3.1\WeddingPlanner.deps.json
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\bin\Debug\netcoreapp3.1\WeddingPlanner.runtimeconfig.json
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\bin\Debug\netcoreapp3.1\WeddingPlanner.runtimeconfig.dev.json
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\bin\Debug\netcoreapp3.1\WeddingPlanner.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\bin\Debug\netcoreapp3.1\WeddingPlanner.pdb
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\bin\Debug\netcoreapp3.1\WeddingPlanner.Views.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\bin\Debug\netcoreapp3.1\WeddingPlanner.Views.pdb
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\obj\Debug\netcoreapp3.1\WeddingPlanner.csprojAssemblyReference.cache
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\obj\Debug\netcoreapp3.1\WeddingPlanner.AssemblyInfoInputs.cache
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\obj\Debug\netcoreapp3.1\WeddingPlanner.AssemblyInfo.cs
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\obj\Debug\netcoreapp3.1\WeddingPlanner.csproj.CoreCompileInputs.cache
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\obj\Debug\netcoreapp3.1\WeddingPlanner.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\obj\Debug\netcoreapp3.1\WeddingPlanner.RazorAssemblyInfo.cache
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\obj\Debug\netcoreapp3.1\WeddingPlanner.RazorAssemblyInfo.cs
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\obj\Debug\netcoreapp3.1\WeddingPlanner.TagHelpers.input.cache
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\obj\Debug\netcoreapp3.1\WeddingPlanner.TagHelpers.output.cache
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\obj\Debug\netcoreapp3.1\WeddingPlanner.RazorCoreGenerate.cache
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\obj\Debug\netcoreapp3.1\Razor\Views\Wedding\Dashboard.cshtml.g.cs
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\obj\Debug\netcoreapp3.1\Razor\Views\Wedding\NewWedding.cshtml.g.cs
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\obj\Debug\netcoreapp3.1\Razor\Views\Wedding\WeddingDetailes.cshtml.g.cs
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\obj\Debug\netcoreapp3.1\WeddingPlanner.RazorTargetAssemblyInfo.cache
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\obj\Debug\netcoreapp3.1\WeddingPlanner.RazorTargetAssemblyInfo.cs
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\obj\Debug\netcoreapp3.1\WeddingPlanner.Views.pdb
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\obj\Debug\netcoreapp3.1\WeddingPlanner.csproj.CopyComplete
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\obj\Debug\netcoreapp3.1\staticwebassets\WeddingPlanner.StaticWebAssets.Manifest.cache
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\obj\Debug\netcoreapp3.1\staticwebassets\WeddingPlanner.StaticWebAssets.xml
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\obj\Debug\netcoreapp3.1\WeddingPlanner.dll
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\obj\Debug\netcoreapp3.1\WeddingPlanner.pdb
+C:\Users\halmu\OneDrive\Documents\C#.NET core\ORMsLINQ\WeddingPlanner\obj\Debug\netcoreapp3.1\WeddingPlanner.genruntimeconfig.cache

@@ -1,0 +1,36 @@
+@model Transaction
+
+<nav>
+    <h2>Welcome, @ViewBag.User.FirstName @ViewBag.User.LastName</h2>
+    <div class="balanceContainer">
+        <p>Current balance: <span class="balance">$@ViewBag.Balance</span></p>
+    </div>
+</nav>
+
+<form asp-action="DepositWithdraw" asp-controller="Home" method="POST" >
+    <span asp-validation-for="Amount" class="text-danger" ></span><br>
+    <label asp-for="Amount" ></label>
+    <input asp-for="Amount" class="transInput" >
+    <button class="btn btn-info tranBtn ">Submit</button>
+</form>
+
+<table class="table table-striped table-bordered">
+  <thead>
+    <tr>
+      <th scope="col">Amount</th>
+      <th scope="col">Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    @{
+      foreach (Transaction tran in ViewBag.User.UserTransactions)
+      {
+        <tr>
+          <td>@tran.Amount</td>
+          <td>@tran.CreatedAt.Date.ToString("MMM dd yyyy")</td>
+        </tr> 
+      }
+    }
+    
+  </tbody>
+</table>

@@ -1,0 +1,49 @@
+@model List<Wedding>
+<nav>
+    <h2>Welcome to The Wedding Planner</h2> <a href="/logout">Logout</a>
+</nav>
+
+<div class="table mt-5">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th scope="col">Wedding</th>
+                <th scope="col">Date</th>
+                <th scope="col">Guests</th>
+                <th scope="col">Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                foreach( Wedding w in Model)
+                {
+                    <tr>
+                        <th><a href="/wedding/@w.WeddingId">@w.WedderOne & @w.WedderTwo</a></th>
+                        <td>@w.Date.Date.ToString("MMM dd yyyy")</td>
+                        <td>@w.Guests.Count</td>
+                        @{
+                            if (ViewBag.LoggedInUser == w.UserId)
+                            {
+                                <td><a href="/delete/@w.WeddingId">Delete</a></td>
+                            }
+                            else if (w.Guests.Any( u => u.UserId == ViewBag.LoggedInUser))
+                            {
+                                <td><a href="/unrsvp/@w.WeddingId">Un-RSVP</a></td>
+                            }
+                            else
+                            {
+                                <td><a href="/rsvp/@w.WeddingId">RSVP</a></td>
+                            }
+                        }
+                        
+                    </tr>
+                }
+                   
+            }
+            
+        </tbody>
+    </table>
+
+    <a href="new" class="btn btn-info float-right mt-4">New Wedding</a>
+
+</div>

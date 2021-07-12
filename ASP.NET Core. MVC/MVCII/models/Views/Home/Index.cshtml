@@ -1,0 +1,28 @@
+﻿@ViewData["Title"] = "Home Page";
+@model models.Models.User;
+
+
+<form asp-action="FormSubmit"  asp-controller="Home" method = "post">
+    <div>
+        <label asp-for="Name"></label>
+        <input asp-for="Name">
+        <div>
+            <span class="text-danger" asp-validation-for="Name"></span>
+        </div>
+    </div>
+    <div>
+        <label asp-for="Email"></label>
+        <input asp-for="Email"> 
+        <div>
+            <span class="text-danger" asp-validation-for="Email"></span>
+        </div>
+    </div>
+    <div>
+        <label asp-for="Password"></label>
+        <input asp-for="Password">
+        <div>
+            <span class="text-danger" asp-validation-for="Password"></span>
+        </div>
+    </div>
+    <button>Submit</button>
+</form>
